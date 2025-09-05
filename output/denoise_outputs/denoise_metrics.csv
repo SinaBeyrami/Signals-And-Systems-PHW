@@ -1,0 +1,5 @@
+Metric,Moderate,Aggressive,Original
+Tail RMS improvement (dB),19.77981973935388,19.82582597191618,
+Attenuation on low-energy frames (dB),-20.689444899177435,-21.07264182492095,
+Mean gain on high-energy frames (dB),-6.860513899160746,-8.509599093954764,
+Spectral flatness (median),0.10604372021741618,0.07740105843408948,0.2725643619270975
